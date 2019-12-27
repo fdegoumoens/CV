@@ -216,7 +216,7 @@
       \ifthenelse{\equal{\cvnumberphone}{}}{}{
       		{$
               \begin{array}{l}
-              \hspace{4mm} \Huge \textnormal{\faMobile} 
+              \hspace{4mm} \Huge \textnormal{a} 
               \end{array}
               $} 
             & \cvnumberphone\\}
@@ -225,7 +225,7 @@
       \ifthenelse{\equal{\cvmail}{}}{}{
             {$
               \begin{array}{l}
-              \hspace{2.5mm} \huge \textnormal{\textcolor{yt}{\faEnvelopeO}}
+              \hspace{2.5mm} \huge \textnormal{\textcolor{yt}{a}
               \end{array}
               $} 
             & \href{mailto:\cvmail}{\cvmail} \\}
